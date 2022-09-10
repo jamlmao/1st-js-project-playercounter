@@ -1,0 +1,58 @@
+body {
+    background-image: url("bgplyr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+   
+    
+}
+
+.container {
+    margin: 160px auto;
+    display: center;
+    width: 400px;
+    height: 400px;
+    border: 1px ;
+    background-color: transparent;
+    color: #ef233c;
+    
+    
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#decrement-btn {
+    background: darkgreen;
+}
+#save-btn {
+    background: #032B43;
+}
